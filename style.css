@@ -1,0 +1,46 @@
+body{
+    font-family: 'Viaoda Libre', cursive;
+    background-image: linear-gradient(to bottom, #1d4c6b, #255b7a, #2f6b88, #387b97, #438ba5, #3c9ab2, #34aabd, #2db9c6, #00cbc9, #00dcc6, #2eecbb, #5ffbab);
+}
+
+.maindiv{
+    background: rgb(38, 120, 175);
+    border: 3px solid white;
+    margin-top: 15px;
+    padding: 15px;
+    float : none;
+}
+
+img{
+    width: 500;
+    height: 300;
+}
+
+#header{
+    background-color: darkcyan;
+    color: white;
+    }
+
+
+    
+.maindiv label{
+    width : 300px;
+    background-color :turquoise;
+    color : white;
+    padding: 5px;
+font-size: 22px;
+box-shadow: 5px 5px 20px whitesmoke;
+}
+
+.minioutput{
+    font-size: 25px;
+    color:white;
+}
+
+.finaloutput{
+font-size: 25px;
+}
+
+   
+
+
